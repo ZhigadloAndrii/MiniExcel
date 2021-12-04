@@ -1,0 +1,39 @@
+D:\Nika\ExcelApplication\bin\Debug\ExcelApplication.exe.config
+D:\Nika\ExcelApplication\bin\Debug\ExcelApplication.exe
+D:\Nika\ExcelApplication\bin\Debug\ExcelApplication.pdb
+D:\Nika\ExcelApplication\bin\Debug\Antlr4.Runtime.dll
+D:\Nika\ExcelApplication\bin\Debug\Antlr4.Runtime.xml
+D:\Nika\ExcelApplication\obj\Debug\ExcelApplication.csproj.AssemblyReference.cache
+D:\Nika\ExcelApplication\obj\Debug\ExcelApplicationLexer.cs
+D:\Nika\ExcelApplication\obj\Debug\ExcelApplicationParser.cs
+D:\Nika\ExcelApplication\obj\Debug\ExcelApplicationListener.cs
+D:\Nika\ExcelApplication\obj\Debug\ExcelApplicationBaseListener.cs
+D:\Nika\ExcelApplication\obj\Debug\ExcelApplicationVisitor.cs
+D:\Nika\ExcelApplication\obj\Debug\ExcelApplicationBaseVisitor.cs
+D:\Nika\ExcelApplication\obj\Debug\ExcelApplication.csproj.Antlr4GeneratedCodeFileListAbsolute.txt
+D:\Nika\ExcelApplication\obj\Debug\ExcelApplication.ExcelPage.resources
+D:\Nika\ExcelApplication\obj\Debug\ExcelApplication.Properties.Resources.resources
+D:\Nika\ExcelApplication\obj\Debug\ExcelApplication.csproj.GenerateResource.cache
+D:\Nika\ExcelApplication\obj\Debug\ExcelApplication.csproj.CoreCompileInputs.cache
+D:\Nika\ExcelApplication\obj\Debug\ExcelApplication.csproj.CopyComplete
+D:\Nika\ExcelApplication\obj\Debug\ExcelApplication.exe
+D:\Nika\ExcelApplication\obj\Debug\ExcelApplication.pdb
+C:\Users\HP\Desktop\Нова папка\ExcelApplication\bin\Debug\ExcelApplication.exe.config
+C:\Users\HP\Desktop\Нова папка\ExcelApplication\bin\Debug\ExcelApplication.exe
+C:\Users\HP\Desktop\Нова папка\ExcelApplication\bin\Debug\ExcelApplication.pdb
+C:\Users\HP\Desktop\Нова папка\ExcelApplication\bin\Debug\Antlr4.Runtime.dll
+C:\Users\HP\Desktop\Нова папка\ExcelApplication\bin\Debug\Antlr4.Runtime.xml
+C:\Users\HP\Desktop\Нова папка\ExcelApplication\obj\Debug\ExcelApplicationLexer.cs
+C:\Users\HP\Desktop\Нова папка\ExcelApplication\obj\Debug\ExcelApplicationParser.cs
+C:\Users\HP\Desktop\Нова папка\ExcelApplication\obj\Debug\ExcelApplicationListener.cs
+C:\Users\HP\Desktop\Нова папка\ExcelApplication\obj\Debug\ExcelApplicationBaseListener.cs
+C:\Users\HP\Desktop\Нова папка\ExcelApplication\obj\Debug\ExcelApplicationVisitor.cs
+C:\Users\HP\Desktop\Нова папка\ExcelApplication\obj\Debug\ExcelApplicationBaseVisitor.cs
+C:\Users\HP\Desktop\Нова папка\ExcelApplication\obj\Debug\ExcelApplication.csproj.Antlr4GeneratedCodeFileListAbsolute.txt
+C:\Users\HP\Desktop\Нова папка\ExcelApplication\obj\Debug\ExcelApplication.ExcelPage.resources
+C:\Users\HP\Desktop\Нова папка\ExcelApplication\obj\Debug\ExcelApplication.Properties.Resources.resources
+C:\Users\HP\Desktop\Нова папка\ExcelApplication\obj\Debug\ExcelApplication.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Нова папка\ExcelApplication\obj\Debug\ExcelApplication.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Нова папка\ExcelApplication\obj\Debug\ExcelApplication.csproj.CopyComplete
+C:\Users\HP\Desktop\Нова папка\ExcelApplication\obj\Debug\ExcelApplication.exe
+C:\Users\HP\Desktop\Нова папка\ExcelApplication\obj\Debug\ExcelApplication.pdb
